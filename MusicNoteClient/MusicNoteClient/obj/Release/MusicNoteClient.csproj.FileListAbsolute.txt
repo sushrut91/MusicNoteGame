@@ -1,0 +1,13 @@
+D:\College\MSC\DC\Assignment\MusicNoteClient\MusicNoteClient\bin\Release\MusicNoteClient.exe.config
+D:\College\MSC\DC\Assignment\MusicNoteClient\MusicNoteClient\bin\Release\MusicNoteClient.exe
+D:\College\MSC\DC\Assignment\MusicNoteClient\MusicNoteClient\bin\Release\MusicNoteClient.pdb
+D:\College\MSC\DC\Assignment\MusicNoteClient\MusicNoteClient\bin\Release\MusicNoteServer.exe
+D:\College\MSC\DC\Assignment\MusicNoteClient\MusicNoteClient\bin\Release\MusicNoteServer.pdb
+D:\College\MSC\DC\Assignment\MusicNoteClient\MusicNoteClient\obj\Release\ResolveAssemblyReference.cache
+D:\College\MSC\DC\Assignment\MusicNoteClient\MusicNoteClient\obj\Release\MusicNoteClient.PianoFrm.resources
+D:\College\MSC\DC\Assignment\MusicNoteClient\MusicNoteClient\obj\Release\MusicNoteClient.Properties.Resources.resources
+D:\College\MSC\DC\Assignment\MusicNoteClient\MusicNoteClient\obj\Release\MusicNoteClient.csproj.GenerateResource.Cache
+D:\College\MSC\DC\Assignment\MusicNoteClient\MusicNoteClient\obj\Release\MusicNoteClient.exe
+D:\College\MSC\DC\Assignment\MusicNoteClient\MusicNoteClient\obj\Release\MusicNoteClient.pdb
+D:\College\MSC\DC\Assignment\MusicNoteClient\MusicNoteClient\obj\Release\MusicNoteClient.MainForm.resources
+D:\College\MSC\DC\Assignment\MusicNoteClient\MusicNoteClient\obj\Release\MusicNoteClient.HelpForm.resources

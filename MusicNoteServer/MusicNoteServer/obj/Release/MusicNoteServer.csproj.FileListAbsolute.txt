@@ -1,0 +1,6 @@
+D:\College\MSC\DC\Assignment\MusicNoteServer\MusicNoteServer\obj\Release\ResolveAssemblyReference.cache
+D:\College\MSC\DC\Assignment\MusicNoteServer\MusicNoteServer\bin\Release\MusicNoteServer.exe.config
+D:\College\MSC\DC\Assignment\MusicNoteServer\MusicNoteServer\bin\Release\MusicNoteServer.exe
+D:\College\MSC\DC\Assignment\MusicNoteServer\MusicNoteServer\bin\Release\MusicNoteServer.pdb
+D:\College\MSC\DC\Assignment\MusicNoteServer\MusicNoteServer\obj\Release\MusicNoteServer.exe
+D:\College\MSC\DC\Assignment\MusicNoteServer\MusicNoteServer\obj\Release\MusicNoteServer.pdb

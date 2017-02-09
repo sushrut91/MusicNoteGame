@@ -1,0 +1,9 @@
+D:\College\MSC\DC\Assignment\Music\bin\Release\Music.exe.config
+D:\College\MSC\DC\Assignment\Music\bin\Release\Music.exe
+D:\College\MSC\DC\Assignment\Music\bin\Release\Music.pdb
+D:\College\MSC\DC\Assignment\Music\obj\Release\ResolveAssemblyReference.cache
+D:\College\MSC\DC\Assignment\Music\obj\Release\Music.Form1.resources
+D:\College\MSC\DC\Assignment\Music\obj\Release\Music.Properties.Resources.resources
+D:\College\MSC\DC\Assignment\Music\obj\Release\Music.csproj.GenerateResource.Cache
+D:\College\MSC\DC\Assignment\Music\obj\Release\Music.exe
+D:\College\MSC\DC\Assignment\Music\obj\Release\Music.pdb

@@ -1,0 +1,13 @@
+C:\Users\leena\Desktop\Music\Music\bin\Debug\Music.exe.config
+I:\Music\Music\bin\Debug\Music.exe.config
+D:\College\MSC\DC\Assignment\Music\bin\Debug\Music.exe.config
+D:\College\MSC\DC\Assignment\Music\obj\Debug\ResolveAssemblyReference.cache
+D:\College\MSC\DC\Assignment\Music\obj\Debug\Music.Form1.resources
+D:\College\MSC\DC\Assignment\Music\obj\Debug\Music.Properties.Resources.resources
+D:\College\MSC\DC\Assignment\Music\obj\Debug\Music.csproj.GenerateResource.Cache
+D:\College\MSC\DC\Assignment\Music\bin\Debug\Music.exe
+D:\College\MSC\DC\Assignment\Music\bin\Debug\Music.pdb
+D:\College\MSC\DC\Assignment\Music\obj\Debug\Music.exe
+D:\College\MSC\DC\Assignment\Music\obj\Debug\Music.pdb
+C:\Users\Sushrut\Desktop\UHS\Assignment\Music\bin\Debug\Music.exe.config
+C:\Users\Sushrut\Desktop\UHS\Assignment\Music\obj\Debug\Music.pdb

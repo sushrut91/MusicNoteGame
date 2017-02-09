@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="MusicNoteServer">
+</Property><Property Name="Solution File" Value="D:\College\MSC\DC\Assignment\MusicNoteServer\MusicNoteServer.sln">
+</Property><Property Name="User Options File" Value="D:\College\MSC\DC\Assignment\MusicNoteServer\MusicNoteServer.suo">
+</Property><Property Name="Date" Value="30 March 2013">
+</Property><Property Name="Time" Value="17:41">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="MusicNoteServer.sln" Description="File successfully backed up as D:\College\MSC\DC\Assignment\MusicNoteServer\Backup\MusicNoteServer.sln">
+</Event><Event ErrorLevel="0" Project="" Source="MusicNoteServer.suo" Description="File successfully backed up as D:\College\MSC\DC\Assignment\MusicNoteServer\Backup\MusicNoteServer.suo">
+</Event><Event ErrorLevel="0" Project="MusicNoteServer" Source="MusicNoteServer\MusicNoteServer.csproj" Description="Project file successfully backed up as D:\College\MSC\DC\Assignment\MusicNoteServer\Backup\MusicNoteServer\MusicNoteServer.csproj">
+</Event><Event ErrorLevel="0" Project="MusicNoteServer" Source="MusicNoteServer\MusicNoteServer.csproj.user" Description="Project user file successfully backed up as D:\College\MSC\DC\Assignment\MusicNoteServer\Backup\MusicNoteServer\MusicNoteServer.csproj.user">
+</Event><Event ErrorLevel="0" Project="MusicNoteServer" Source="MusicNoteServer\MusicServer.cs" Description="File successfully backed up as D:\College\MSC\DC\Assignment\MusicNoteServer\Backup\MusicNoteServer\MusicServer.cs">
+</Event><Event ErrorLevel="0" Project="MusicNoteServer" Source="MusicNoteServer\Properties\AssemblyInfo.cs" Description="File successfully backed up as D:\College\MSC\DC\Assignment\MusicNoteServer\Backup\MusicNoteServer\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="MusicNoteServer" Source="MusicNoteServer\Properties\Settings.Designer.cs" Description="File successfully backed up as D:\College\MSC\DC\Assignment\MusicNoteServer\Backup\MusicNoteServer\Properties\Settings.Designer.cs">
+</Event><Event ErrorLevel="0" Project="MusicNoteServer" Source="MusicNoteServer\app.config" Description="File successfully backed up as D:\College\MSC\DC\Assignment\MusicNoteServer\Backup\MusicNoteServer\app.config">
+</Event><Event ErrorLevel="0" Project="MusicNoteServer" Source="MusicNoteServer\Properties\Settings.settings" Description="File successfully backed up as D:\College\MSC\DC\Assignment\MusicNoteServer\Backup\MusicNoteServer\Properties\Settings.settings">
+</Event><Event ErrorLevel="0" Project="MusicNoteServer" Source="MusicNoteServer\MusicFiles\CNote.mp3" Description="File successfully backed up as D:\College\MSC\DC\Assignment\MusicNoteServer\Backup\MusicNoteServer\MusicFiles\CNote.mp3">
+</Event><Event ErrorLevel="0" Project="MusicNoteServer" Source="MusicNoteServer\MusicNoteServer.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="MusicNoteServer" Source="MusicNoteServer\MusicNoteServer.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="MusicNoteServer.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="MusicNoteServer.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="MusicNoteServer" Source="MusicNoteServer\MusicNoteServer.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>
